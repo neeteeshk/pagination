@@ -1,0 +1,20 @@
+.VinNumber{
+    background-color: #121920;
+    height:50px;
+}
+#button_vin{
+    background-color: #f8ac44;
+    width:100px;
+    height:36px;
+    text-align: center;
+    font-size: 16px;
+    border:none;
+    margin-top:7px;
+    cursor:pointer;
+}
+#input_vin{
+    width:500px;
+    height:34px;
+    font-size: 16px;
+    border:none;
+}
